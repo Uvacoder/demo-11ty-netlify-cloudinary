@@ -1,5 +1,5 @@
 # demo-11ty-netlify-cloudinary
-
+--
 This is a demonstration of how to get an optimized performance with responsive images while letting content author writing simple Markdown.
 
 It uses:
